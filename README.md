@@ -1,5 +1,5 @@
 # Pemrograman Bergerak 4D 2024
-Repository dari praktikum mata kuliah Pemrograman Bergerak kelas 4D
+Repository dari praktikum mata kuliah Pemrograman Bergerak kelas 4D.
 Kumpulkan tugas yang sudah dibuat di folder yang sudah disediakan dan kumpulkan tugas ketika sudah melakukan asistensi kepada Asisten Praktikum.
 
 Tata cara mengumpulkan tugas (buat yang males baca, ini versi video: )
