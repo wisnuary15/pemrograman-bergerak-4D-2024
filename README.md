@@ -15,5 +15,5 @@ Tata cara mengumpulkan tugas (buat yang males baca, ini versi video: )
 10. Kalau sudah dibuka, langkah selanjutnya adalah membuat folder di dalam modul (sesuai dengan modul yang ingin dikirimkan) dengan format NIM-NamaKamu dan untuk nama tidak menggunakan spasi, namun diganti dengan huruf kapital di setiap nama (contoh: 200441100014-KevinMalikFajar)
 11. Setelah itu copy folder project milik kamu (source code android), dan paste hasil copy ke dalam folder NIM-NamaKamu yang sudah dibuat
 11. setelah itu buka lagi VSCode, klik source control (atau CTRL+Shift+G) dan masukkan pesan commit (contoh: Mengumpulkan Tugas Praktikum Modul 1, asprak kak Kukuh)
-12. Lalu klik commit, nanti akan muncul pop up "there are no staged changes to commit" dan langsung aja klik YES
+12. Lalu klik commit, nanti akan muncul pop up "there are no staged changes to commit" dan langsung aja klik YES dan setelah itu klik Sync Changes
 13. 
