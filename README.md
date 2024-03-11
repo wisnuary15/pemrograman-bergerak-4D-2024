@@ -2,7 +2,7 @@
 Repository dari praktikum mata kuliah Pemrograman Bergerak kelas 4D.
 Kumpulkan tugas yang sudah dibuat di folder yang sudah disediakan dan kumpulkan tugas ketika sudah melakukan asistensi kepada Asisten Praktikum.
 
-Tata cara mengumpulkan tugas (buat yang males baca, ini versi video: )
+Tata cara mengumpulkan tugas (buat yang males baca, ini versi video: https://youtu.be/qopJEeFQzlA)
 1. Instal Git Bash di laptop milik teman-teman (kalau belum instal, tutorial instalasi ada di sini  https://www.youtube.com/watch?v=uIjoN19McGU)
 2. Kalau sudah instal Git Bash, Fork Repository ini dengan cara klik tombol fork di pojok kanan atas
 3. Lalu biarkan settingan yang sudah terisi, langsung saja klik "Create Fork"
