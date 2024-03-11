@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tourism App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--  Onboarding Screen  -->
+    <string name="text_lewati">Lewati</string>
+    <string name="text_welcome">Selamat Datang Tretan Siap Menjelajah Bangkalan?</string>
+    <string name="text_welcome_sub">Kami hadir untuk mendukung perjalanan kamu untuk mengitari indahnya\nMadura!</string>
+    <string name="text_onboarding_next">Ayo, Mulai!</string>
+    <string name="text_has_account">Kamu sudah punya akun?</string>
+    <string name="text_masuk">Masuk</string>
+    <string name="text_welcome_2">Bangkalan Menunggumu! Mari Kenali Lebih Dekat</string>
+    <string name="text_welcome_sub_2">Aplikasi ini memudahkan Kamu untuk menemukan perjalanan yang Kamu inginkan.</string>
+    <string name="text_selanjutnya">Selanjutnya</string>
+    <string name="text_welcome_3">Dapatkan Pengalaman Wisata Terbaik di Bangkalan</string>
+    <string name="text_welcome_sub_3">Kami berkomitmen untuk membantu kamu menemukan perjalanan yang asik di kota Bangkalan</string>
+    <string name="text_ayo_masuk">Ayo, Masuk!</string>
+</resources>
