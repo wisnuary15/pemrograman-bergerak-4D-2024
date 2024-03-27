@@ -1,3 +1,5 @@
+
+
 fun main() {
     var x = true
 	while (x == true) {
@@ -26,7 +28,7 @@ fun main() {
             
         }
         println("========================================")
-        println("Terimakasih... Tetap Jaga Keselamatan :")
+        println("Terimakasih... Tetap Jaga Keselamatan :)")
         println("========================================")
         x = false
     } 
