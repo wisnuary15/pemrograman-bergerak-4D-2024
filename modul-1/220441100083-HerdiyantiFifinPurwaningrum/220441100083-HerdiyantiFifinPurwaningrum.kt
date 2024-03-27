@@ -26,7 +26,7 @@ fun main() {
             
         }
         println("========================================")
-        println("Terimakasih... Tetap Jaga Keselamatan :)")
+        println("Terimakasih... Tetap Jaga Keselamatan :")
         println("========================================")
         x = false
     } 
