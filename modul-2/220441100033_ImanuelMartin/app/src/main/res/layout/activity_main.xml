@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/image_halamanmasuk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/imagemasuk"
+        android:adjustViewBounds="true"
+         />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="30dp">
+
+        <TextView
+            android:textFontWeight="700"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/poppins_bold"
+            android:text="Universitas Trunojoyo"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="30dp">
+
+        <TextView
+            android:layout_width="249dp"
+            android:layout_height="wrap_content"
+            android:text="Selamat datang di Aplikasi milik Universitas Trunojoyo" />
+
+    </LinearLayout>
+    <EditText
+        android:id="@+id/editText_nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:hint="Masukkan nama kamu" />
+
+    <Button
+        android:id="@+id/buttonNext"
+        android:layout_width="500px"
+        android:layout_height="wrap_content"
+        android:text="Lanjut"
+        android:fontFamily="@font/poppins_bold"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/button_background"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:onClick="lanjut"/>
+
+</LinearLayout>
