@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".MainActivitybaru">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="376dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/perpus"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_bold"
+        android:text="@string/univ"
+        android:textColor="@color/black"
+        android:layout_marginTop="394dp"
+        android:textSize="24sp"
+        android:layout_marginLeft="22dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/poppins"
+        android:text="@string/sub_univ"
+        android:textColor="@color/black"
+        android:layout_marginStart="22dp"
+        android:layout_marginVertical="433dp"
+        android:textSize="16sp" />
+
+        <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="40dp"
+            android:layout_marginStart="22dp"
+            android:layout_marginVertical="500dp"
+        android:fontFamily="@font/poppins_light"
+        android:hint="Masukan nama kamu"
+        android:padding="10dp" />
+
+    <Button
+        android:id="@+id/btn_lanjut"
+        android:layout_width="283dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="22dp"
+        android:background="@drawable/corner_button"
+        android:backgroundTint="@color/black"
+        android:fontFamily="@font/poppins_bold"
+        android:layout_centerHorizontal="true"
+        android:onClick="toBeranda"
+        android:text="Lanjut"
+        android:layout_marginLeft="22dp"
+        android:layout_marginVertical="580dp"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</RelativeLayout>
